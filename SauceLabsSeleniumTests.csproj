@@ -87,7 +87,7 @@
   <ItemGroup>
     <Compile Include="BrowserSettings.cs" />
     <Compile Include="TableDataCollection.cs" />
-    <Compile Include="SauceLabsSelenium.cs" />
+    <Compile Include="SauceLabsSeleniumTasks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserConstantData.cs" />
   </ItemGroup>
